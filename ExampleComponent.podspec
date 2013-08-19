@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ExampleComponent"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "An example how to prepare Cocoapod Pod."
   s.homepage     = "https://github.com/paweldudek/example-cocoapods-component"
   s.license      = 'MIT'
